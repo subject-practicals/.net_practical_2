@@ -1,0 +1,7 @@
+C:\Users\Dhruv\OneDrive\Documents\A Sem - 5\.net\extra\practical_3\practical_3\bin\Debug\practical_3.exe.config
+C:\Users\Dhruv\OneDrive\Documents\A Sem - 5\.net\extra\practical_3\practical_3\bin\Debug\practical_3.exe
+C:\Users\Dhruv\OneDrive\Documents\A Sem - 5\.net\extra\practical_3\practical_3\bin\Debug\practical_3.pdb
+C:\Users\Dhruv\OneDrive\Documents\A Sem - 5\.net\extra\practical_3\practical_3\obj\Debug\practical_3.csproj.AssemblyReference.cache
+C:\Users\Dhruv\OneDrive\Documents\A Sem - 5\.net\extra\practical_3\practical_3\obj\Debug\practical_3.csproj.CoreCompileInputs.cache
+C:\Users\Dhruv\OneDrive\Documents\A Sem - 5\.net\extra\practical_3\practical_3\obj\Debug\practical_3.exe
+C:\Users\Dhruv\OneDrive\Documents\A Sem - 5\.net\extra\practical_3\practical_3\obj\Debug\practical_3.pdb
